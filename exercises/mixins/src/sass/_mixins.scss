@@ -1,3 +1,4 @@
 @mixin btn-color($color) {
- 
+  color: #ffffff;
+  background-color: $color;
 }
